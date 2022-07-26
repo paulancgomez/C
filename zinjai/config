@@ -1,0 +1,217 @@
+# generado por ZinjaI-w32-20180221
+[Init]
+left_panels=0
+show_welcome=1
+show_beginner_panel=0
+show_minimap_panel=0
+show_tip_on_startup=1
+new_file=2
+version=20180221
+pos_x=464
+pos_y=108
+size_x=800
+size_y=600
+maximized=1
+lang_es=0
+zinjai_server_port=46527
+save_project=1
+always_add_extension=0
+autohide_toolbars_fs=1
+autohide_panels_fs=1
+autohide_menus_fs=0
+check_for_updates=0
+prefer_explorer_tree=0
+cppcheck_seen=0
+doxygen_seen=0
+wxfb_seen=0
+show_explorer_tree=0
+graphviz_dot=1
+inherit_num=3
+history_len=10
+proxy=
+language_file=spanish
+max_errors=500
+max_jobs=2
+wrap_mode=1
+singleton=1
+stop_compiling_on_error=1
+autohide_panels=0
+fullpath_on_project_tree=0
+use_cache_for_subcommands=1
+beautify_compiler_errors=1
+colour_theme=inverted.zcs
+complements_timestamp=20210506200129
+
+[Debug]
+allow_edition=0
+autohide_panels=1
+autohide_toolbars=1
+use_colours_for_inspections=1
+inspections_can_have_side_effects=0
+raise_main_window=1
+compile_again=1
+always_debug=0
+use_blacklist=1
+macros_file=debug_macros.gdb
+show_do_that=0
+show_thread_panel=0
+show_log_panel=0
+inspections_on_right=0
+inspect_on_mouse_over=1
+readnow=0
+catch_throw=1
+auto_solibs=0
+return_focus_on_continue=1
+improve_inspections_by_type=1
+no_debug_heap=1
+inspection_improving_template=std::vector<${T}, std::allocator<${T}> >|>pvector ${EXP}
+inspection_improving_template=std::stack<${T}, std::deque<${T}, std::allocator<${T}> > >|>pstack ${EXP}
+inspection_improving_template=std::deque<${T}, std::allocator<${T}> >|>pdeque ${EXP}
+inspection_improving_template=std::queue<${T}, std::deque<${T}, std::allocator<${T}> > >|>pqueue ${EXP}
+inspection_improving_template=std::priority_queue<${T}, std::vector<${T}, std::allocator<${T}> >, ${C} >|>ppqueue ${EXP}
+inspection_improving_template=std::bitset<${N}>|>pbitset ${EXP}
+inspection_improving_template=std::set<${T}, ${C}, std::allocator<${T}> >|>pset ${EXP} '${T}'
+inspection_improving_template=std::list<${T}, std::allocator<${T}> >|>plist ${EXP} '${T}'
+inspection_improving_template=std::map<${T1}, ${T2}, ${C}, std::allocator<${P}> >|>pmap ${EXP} '${T1}' '${T2}'
+inspection_improving_template=std::list<${T}, std::allocator<${T}> >::iterator|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::_List_iterator<${T}>|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::string|(${EXP})._M_dataplus._M_p
+inspection_improving_template=std::basic_string<char, std::char_traits<char>, std::allocator<char> >|(${EXP})._M_dataplus._M_p
+inspection_improving_template=std::${NS}::list<${T}, std::allocator<${T}> >::iterator|*((${T}*)(${EXP}._M_node+1)) @1
+inspection_improving_template=std::${NS}::list<${T}, std::allocator<${T}> >|>plist ${EXP} '${T}'
+
+[Styles]
+print_size=8
+font_size=10
+font_name=Courier New
+colour_theme=inverted.zcs
+
+[Source]
+smartIndent=1
+indentPaste=1
+bracketInsertion=1
+syntaxEnable=1
+foldEnable=1
+indentEnable=1
+whiteSpace=0
+lineNumber=1
+overType=0
+autocompFilters=1
+callTips=1
+autocompTips=1
+toolTips=1
+autotextEnabled=1
+autocloseStuff=0
+autoCompletion=2
+avoidNoNewLineWarning=1
+edgeColumn=80
+alignComments=80
+tabWidth=4
+tabUseSpaces=0
+
+[Running]
+cpp_compiler_options=-Wall -pedantic-errors -O0 -finput-charset=iso-8859-1 -fexec-charset=cp437
+c_compiler_options=-Wall -pedantic-errors -O0 -finput-charset=iso-8859-1 -fexec-charset=cp437
+wait_for_key=1
+always_ask_args=0
+check_includes=1
+
+[Help]
+wxhelp_index=
+autocomp_indexes=AAA_Directivas_de_Preprocesador,AAA_Estandar_C,AAA_Estandar_Cpp,AAA_STL,AAA_Palabras_Reservadas,AAA_Estandar_Cpp_11,AAA_STL_11,AAA_Palabras_Reservadas_11
+min_len_for_completion=3
+show_extra_panels=1
+
+[Files]
+temp_dir=C:\Users\Cardozo\zinjai\tmp
+img_viewer=
+xdot_command=
+skin_dir=imgs
+debugger_command=gdb
+toolchain=mingw32-gcc6
+cppcheck_command=
+valgrind_command=
+terminal_command=
+explorer_command=explorer
+c_template=default_c.tpl
+cpp_template=default_14.tpl
+default_template=default_14.tpl
+default_project=<main>
+autocodes_file=C:\Users\Cardozo\zinjai\autocodes
+doxygen_command=c:\archivos de programa\doxygen\bin\doxygen.exe
+wxfb_command=
+browser_command=
+project_folder=C:\Users\Cardozo\projects
+last_dir=C:\Users\Cardozo\Desktop\paradigmas y lenguajes\Apuntes (negris)\TEMAS PRIMER PARCIAL\PROGRAMACION FUNCIONAL 2020\TP\Trabajos Practicoss\Practicos\TP1
+last_project_dir=C:\Users\Cardozo\Desktop\Automata\NUEVITO\Nuevito
+last_source_0=C:\Users\Cardozo\Desktop\paradigmas y lenguajes\Apuntes (negris)\TEMAS PRIMER PARCIAL\PROGRAMACION FUNCIONAL 2020\TP\Trabajos Practicoss\Practicos\TP1\TP1_Ejercicio_3.c
+last_source_1=C:\Users\Cardozo\Desktop\arbol\arbol.c
+last_source_2=C:\Users\Cardozo\Desktop\esto subiiiiii\main.c
+last_source_3=C:\Users\Cardozo\Desktop\esto subiiiiii\implementacionARBOL.c
+last_source_4=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Segunda entrega\NO TOCAR (segunda entrega) - FINAL\Automata Final\main.c
+last_source_5=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa10472.31446\main.c
+last_source_6=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa10472.26596\main.c
+last_source_7=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa10472.35543\interfazARBOL.h
+last_source_8=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Automata Final\implementacionARBOL.c
+last_source_9=G:\NO TOCAR\Automata Mejorado (actualizado) - copia\implementacionARBOL.c
+last_source_10=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Automata Mejorado (actualizado) - copia\implementacionARBOL.c
+last_source_11=C:\Users\Cardozo\Desktop\Automata\Automata\Automata Mejorado (actualizado)\implementacionARBOL.c
+last_source_12=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Automata Mejorado (actualizado) - copia\main.c
+last_source_13=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow) mod\Automata 5.0 (Marshmallow)\Nueva carpeta\implementacionAF.c
+last_source_14=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow) mod\Automata 5.0 (Marshmallow)\Nueva carpeta\implementacionlista.c
+last_source_15=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow) mod\Automata 5.0 (Marshmallow)\Nueva carpeta\interfazAF.h
+last_source_16=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow) mod\Automata 5.0 (Marshmallow)\Nueva carpeta\interfazlista.h
+last_source_17=C:\Users\Cardozo\Desktop\Automata\Automata\Automata\implementacionLISTA.c
+last_source_18=C:\Users\Cardozo\Desktop\Automata\Automata\Automata\implementacionELEMENTO.c
+last_source_19=C:\Users\Cardozo\Desktop\Automata\Automata\Automata\interfazCADENA.h
+last_source_20=C:\Users\Cardozo\Desktop\Automata\Automata\Automata\implementacionCADENA.c
+last_project_0=C:\Users\Cardozo\Desktop\ultimo\Nuevito.zpr
+last_project_1=C:\Users\Cardozo\Desktop\Automata\NUEVITO\Nuevito\Nuevito.zpr
+last_project_2=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Segunda entrega\NO TOCAR (segunda entrega) - FINAL\Automata Final\Automata Mejorado.zpr
+last_project_3=C:\Users\Cardozo\Desktop\esto subiiiiii\Nuevito.zpr
+last_project_4=C:\Users\Cardozo\Desktop\Automata\NUEVO\NUEVO\NUEVO.zpr
+last_project_5=C:\Users\Cardozo\Desktop\Automata\probar\MiProyecto\MiProyecto.zpr
+last_project_6=C:\Users\Cardozo\Desktop\Automata\denis\Automata.zpr
+last_project_7=C:\Users\Cardozo\projects\MiProyecto\MiProyecto.zpr
+last_project_8=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa10472.28245\Automata Mejorado.zpr
+last_project_9=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa10472.30723\Automata Mejorado.zpr
+last_project_10=C:\Users\Cardozo\Downloads\Automata Final (3)\Automata Mejorado.zpr
+last_project_11=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Segunda entrega\NO TOCAR (segunda entrega) - arreglado - con vacio\Automata Final\Automata Mejorado.zpr
+last_project_12=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa0.888\Automata Mejorado.zpr
+last_project_13=C:\Users\Cardozo\AppData\Local\Temp\Rar$DIa0.715\Automata Mejorado.zpr
+last_project_14=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Segunda entrega\NO TOCAR (segunda entrega) - FINAL - sin comentarios\Automata Final\Automata Mejorado.zpr
+last_project_15=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR (segunda entrega) - con vacio\Automata Final\Automata Mejorado.zpr
+last_project_16=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR (segunda entrega) - sin vacio\Automata Final\Automata Mejorado.zpr
+last_project_17=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR (segunda entrega)\Automata Final\Automata Mejorado.zpr
+last_project_18=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR (segunda entrega) - actualizado\Automata Final\Automata Mejorado.zpr
+last_project_19=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR (primera entrega)\Automata Final\Automata Mejorado.zpr
+last_project_20=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Automata Final\Automata Mejorado.zpr
+last_project_21=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR - copia\Automata Mejorado (actualizado) - copia\Automata Mejorado.zpr
+last_project_22=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow) mod\Automata 5.0 (Marshmallow)\Nueva carpeta\MiProyecto.zpr
+last_project_23=C:\Users\Cardozo\Desktop\Automata\Automata\NO TOCAR\Automata Mejorado (actualizado) - copia\Automata Mejorado.zpr
+last_project_24=C:\Users\Cardozo\Desktop\Automata\gaston\Nueva carpeta\MiProyecto.zpr
+last_project_25=C:\Users\Cardozo\Desktop\Automata\Automata\Automata Mejorado (actualizado)\Automata Mejorado.zpr
+last_project_26=C:\Users\Cardozo\Desktop\Automata\Automata\automata original\MiProyecto.zpr
+last_project_27=C:\Users\Cardozo\Desktop\Automata\Automata\Automata Mejorado - copia\Automata Mejorado.zpr
+last_project_28=C:\Users\Cardozo\Desktop\Automata\Automata\Automata Mejorado\Automata Mejorado.zpr
+last_project_29=G:\Automata\Automata 5.0 .1(Marshmallow)\Automata 5.0 (Marshmallow)\Nueva carpeta\MiProyecto.zpr
+last_project_30=C:\Users\Cardozo\projects\Automatanuevoooo\Automatanuevoooo.zpr
+last_project_31=C:\Users\Cardozo\Desktop\Automata\Automata\Automata\Automata.zpr
+last_project_32=C:\Users\Cardozo\Desktop\Automata\Automata\MiProyecto\MiProyecto.zpr
+last_project_33=C:\Users\Cardozo\Desktop\Automata\Automata.zpr
+last_project_34=C:\Users\Cardozo\Desktop\Automata\MiProyecto.zpr
+last_project_35=C:\Users\Cardozo\Documents\Automata 5.0 .1(Marshmallow)\Automata 5.0 (Marshmallow)\Nueva carpeta\MiProyecto.zpr
+
+[Columns]
+inspections_grid_0=1
+inspections_grid_1=1
+inspections_grid_2=1
+inspections_grid_3=1
+backtrace_grid_0=1
+backtrace_grid_1=1
+backtrace_grid_2=1
+backtrace_grid_3=1
+backtrace_grid_4=1
+
+[CustomTools]
+
